@@ -1,0 +1,265 @@
+﻿#include "il2cpp-config.h"
+
+#ifndef _MSC_VER
+# include <alloca.h>
+#else
+# include <malloc.h>
+#endif
+
+
+
+#include "class-internals.h"
+#include "codegen/il2cpp-codegen.h"
+
+extern "C" void t176_marshal ();
+extern "C" void t176_marshal_back ();
+extern "C" void t176_marshal_cleanup ();
+extern "C" void t171_marshal ();
+extern "C" void t171_marshal_back ();
+extern "C" void t171_marshal_cleanup ();
+extern "C" void t484_marshal ();
+extern "C" void t484_marshal_back ();
+extern "C" void t484_marshal_cleanup ();
+extern "C" void t492_marshal ();
+extern "C" void t492_marshal_back ();
+extern "C" void t492_marshal_cleanup ();
+extern "C" void t309_marshal ();
+extern "C" void t309_marshal_back ();
+extern "C" void t309_marshal_cleanup ();
+extern "C" void t530_marshal ();
+extern "C" void t530_marshal_back ();
+extern "C" void t530_marshal_cleanup ();
+extern "C" void t174_marshal ();
+extern "C" void t174_marshal_back ();
+extern "C" void t174_marshal_cleanup ();
+extern "C" void t142_marshal ();
+extern "C" void t142_marshal_back ();
+extern "C" void t142_marshal_cleanup ();
+extern "C" void t54_marshal ();
+extern "C" void t54_marshal_back ();
+extern "C" void t54_marshal_cleanup ();
+extern "C" void t483_marshal ();
+extern "C" void t483_marshal_back ();
+extern "C" void t483_marshal_cleanup ();
+extern "C" void t67_marshal ();
+extern "C" void t67_marshal_back ();
+extern "C" void t67_marshal_cleanup ();
+extern "C" void t558_marshal ();
+extern "C" void t558_marshal_back ();
+extern "C" void t558_marshal_cleanup ();
+extern "C" void t559_marshal ();
+extern "C" void t559_marshal_back ();
+extern "C" void t559_marshal_cleanup ();
+extern "C" void t561_marshal ();
+extern "C" void t561_marshal_back ();
+extern "C" void t561_marshal_cleanup ();
+extern "C" void t562_marshal ();
+extern "C" void t562_marshal_back ();
+extern "C" void t562_marshal_cleanup ();
+extern "C" void t557_marshal ();
+extern "C" void t557_marshal_back ();
+extern "C" void t557_marshal_cleanup ();
+extern "C" void t771_marshal ();
+extern "C" void t771_marshal_back ();
+extern "C" void t771_marshal_cleanup ();
+extern "C" void t772_marshal ();
+extern "C" void t772_marshal_back ();
+extern "C" void t772_marshal_cleanup ();
+extern "C" void t773_marshal ();
+extern "C" void t773_marshal_back ();
+extern "C" void t773_marshal_cleanup ();
+extern "C" void t917_marshal ();
+extern "C" void t917_marshal_back ();
+extern "C" void t917_marshal_cleanup ();
+extern "C" void t918_marshal ();
+extern "C" void t918_marshal_back ();
+extern "C" void t918_marshal_cleanup ();
+extern "C" void t919_marshal ();
+extern "C" void t919_marshal_back ();
+extern "C" void t919_marshal_cleanup ();
+extern "C" void t920_marshal ();
+extern "C" void t920_marshal_back ();
+extern "C" void t920_marshal_cleanup ();
+extern "C" void t921_marshal ();
+extern "C" void t921_marshal_back ();
+extern "C" void t921_marshal_cleanup ();
+extern "C" void t922_marshal ();
+extern "C" void t922_marshal_back ();
+extern "C" void t922_marshal_cleanup ();
+extern "C" void t923_marshal ();
+extern "C" void t923_marshal_back ();
+extern "C" void t923_marshal_cleanup ();
+extern "C" void t924_marshal ();
+extern "C" void t924_marshal_back ();
+extern "C" void t924_marshal_cleanup ();
+extern "C" void t925_marshal ();
+extern "C" void t925_marshal_back ();
+extern "C" void t925_marshal_cleanup ();
+extern "C" void t1046_marshal ();
+extern "C" void t1046_marshal_back ();
+extern "C" void t1046_marshal_cleanup ();
+extern "C" void t1090_marshal ();
+extern "C" void t1090_marshal_back ();
+extern "C" void t1090_marshal_cleanup ();
+extern "C" void t1096_marshal ();
+extern "C" void t1096_marshal_back ();
+extern "C" void t1096_marshal_cleanup ();
+extern "C" void t1126_marshal ();
+extern "C" void t1126_marshal_back ();
+extern "C" void t1126_marshal_cleanup ();
+extern "C" void t1134_marshal ();
+extern "C" void t1134_marshal_back ();
+extern "C" void t1134_marshal_cleanup ();
+extern "C" void t1135_marshal ();
+extern "C" void t1135_marshal_back ();
+extern "C" void t1135_marshal_cleanup ();
+extern "C" void t1205_marshal ();
+extern "C" void t1205_marshal_back ();
+extern "C" void t1205_marshal_cleanup ();
+extern "C" void t1206_marshal ();
+extern "C" void t1206_marshal_back ();
+extern "C" void t1206_marshal_cleanup ();
+extern "C" void t1207_marshal ();
+extern "C" void t1207_marshal_back ();
+extern "C" void t1207_marshal_cleanup ();
+extern "C" void t1318_marshal ();
+extern "C" void t1318_marshal_back ();
+extern "C" void t1318_marshal_cleanup ();
+extern "C" void t749_marshal ();
+extern "C" void t749_marshal_back ();
+extern "C" void t749_marshal_cleanup ();
+extern "C" void t928_marshal ();
+extern "C" void t928_marshal_back ();
+extern "C" void t928_marshal_cleanup ();
+extern "C" void t900_marshal ();
+extern "C" void t900_marshal_back ();
+extern "C" void t900_marshal_cleanup ();
+extern "C" void t1760_marshal ();
+extern "C" void t1760_marshal_back ();
+extern "C" void t1760_marshal_cleanup ();
+extern "C" void t1761_marshal ();
+extern "C" void t1761_marshal_back ();
+extern "C" void t1761_marshal_cleanup ();
+extern "C" void t1762_marshal ();
+extern "C" void t1762_marshal_back ();
+extern "C" void t1762_marshal_cleanup ();
+extern "C" void t1763_marshal ();
+extern "C" void t1763_marshal_back ();
+extern "C" void t1763_marshal_cleanup ();
+extern "C" void t1764_marshal ();
+extern "C" void t1764_marshal_back ();
+extern "C" void t1764_marshal_cleanup ();
+extern "C" void t1765_marshal ();
+extern "C" void t1765_marshal_back ();
+extern "C" void t1765_marshal_cleanup ();
+extern "C" void t1766_marshal ();
+extern "C" void t1766_marshal_back ();
+extern "C" void t1766_marshal_cleanup ();
+extern "C" void t1767_marshal ();
+extern "C" void t1767_marshal_back ();
+extern "C" void t1767_marshal_cleanup ();
+extern "C" void t1768_marshal ();
+extern "C" void t1768_marshal_back ();
+extern "C" void t1768_marshal_cleanup ();
+extern "C" void t1769_marshal ();
+extern "C" void t1769_marshal_back ();
+extern "C" void t1769_marshal_cleanup ();
+extern "C" void t1770_marshal ();
+extern "C" void t1770_marshal_back ();
+extern "C" void t1770_marshal_cleanup ();
+extern "C" void t1771_marshal ();
+extern "C" void t1771_marshal_back ();
+extern "C" void t1771_marshal_cleanup ();
+extern "C" void t1772_marshal ();
+extern "C" void t1772_marshal_back ();
+extern "C" void t1772_marshal_cleanup ();
+extern "C" void t1773_marshal ();
+extern "C" void t1773_marshal_back ();
+extern "C" void t1773_marshal_cleanup ();
+extern "C" void t1774_marshal ();
+extern "C" void t1774_marshal_back ();
+extern "C" void t1774_marshal_cleanup ();
+extern "C" void t1775_marshal ();
+extern "C" void t1775_marshal_back ();
+extern "C" void t1775_marshal_cleanup ();
+extern "C" void t1776_marshal ();
+extern "C" void t1776_marshal_back ();
+extern "C" void t1776_marshal_cleanup ();
+extern "C" void t1777_marshal ();
+extern "C" void t1777_marshal_back ();
+extern "C" void t1777_marshal_cleanup ();
+extern "C" void t1778_marshal ();
+extern "C" void t1778_marshal_back ();
+extern "C" void t1778_marshal_cleanup ();
+extern "C" void t1779_marshal ();
+extern "C" void t1779_marshal_back ();
+extern "C" void t1779_marshal_cleanup ();
+extern "C" void t1780_marshal ();
+extern "C" void t1780_marshal_back ();
+extern "C" void t1780_marshal_cleanup ();
+extern const Il2CppMarshalingFunctions g_MarshalingFunctions[63] = 
+{
+	{ t176_marshal, t176_marshal_back, t176_marshal_cleanup },
+	{ t171_marshal, t171_marshal_back, t171_marshal_cleanup },
+	{ t484_marshal, t484_marshal_back, t484_marshal_cleanup },
+	{ t492_marshal, t492_marshal_back, t492_marshal_cleanup },
+	{ t309_marshal, t309_marshal_back, t309_marshal_cleanup },
+	{ t530_marshal, t530_marshal_back, t530_marshal_cleanup },
+	{ t174_marshal, t174_marshal_back, t174_marshal_cleanup },
+	{ t142_marshal, t142_marshal_back, t142_marshal_cleanup },
+	{ t54_marshal, t54_marshal_back, t54_marshal_cleanup },
+	{ t483_marshal, t483_marshal_back, t483_marshal_cleanup },
+	{ t67_marshal, t67_marshal_back, t67_marshal_cleanup },
+	{ t558_marshal, t558_marshal_back, t558_marshal_cleanup },
+	{ t559_marshal, t559_marshal_back, t559_marshal_cleanup },
+	{ t561_marshal, t561_marshal_back, t561_marshal_cleanup },
+	{ t562_marshal, t562_marshal_back, t562_marshal_cleanup },
+	{ t557_marshal, t557_marshal_back, t557_marshal_cleanup },
+	{ t771_marshal, t771_marshal_back, t771_marshal_cleanup },
+	{ t772_marshal, t772_marshal_back, t772_marshal_cleanup },
+	{ t773_marshal, t773_marshal_back, t773_marshal_cleanup },
+	{ t917_marshal, t917_marshal_back, t917_marshal_cleanup },
+	{ t918_marshal, t918_marshal_back, t918_marshal_cleanup },
+	{ t919_marshal, t919_marshal_back, t919_marshal_cleanup },
+	{ t920_marshal, t920_marshal_back, t920_marshal_cleanup },
+	{ t921_marshal, t921_marshal_back, t921_marshal_cleanup },
+	{ t922_marshal, t922_marshal_back, t922_marshal_cleanup },
+	{ t923_marshal, t923_marshal_back, t923_marshal_cleanup },
+	{ t924_marshal, t924_marshal_back, t924_marshal_cleanup },
+	{ t925_marshal, t925_marshal_back, t925_marshal_cleanup },
+	{ t1046_marshal, t1046_marshal_back, t1046_marshal_cleanup },
+	{ t1090_marshal, t1090_marshal_back, t1090_marshal_cleanup },
+	{ t1096_marshal, t1096_marshal_back, t1096_marshal_cleanup },
+	{ t1126_marshal, t1126_marshal_back, t1126_marshal_cleanup },
+	{ t1134_marshal, t1134_marshal_back, t1134_marshal_cleanup },
+	{ t1135_marshal, t1135_marshal_back, t1135_marshal_cleanup },
+	{ t1205_marshal, t1205_marshal_back, t1205_marshal_cleanup },
+	{ t1206_marshal, t1206_marshal_back, t1206_marshal_cleanup },
+	{ t1207_marshal, t1207_marshal_back, t1207_marshal_cleanup },
+	{ t1318_marshal, t1318_marshal_back, t1318_marshal_cleanup },
+	{ t749_marshal, t749_marshal_back, t749_marshal_cleanup },
+	{ t928_marshal, t928_marshal_back, t928_marshal_cleanup },
+	{ t900_marshal, t900_marshal_back, t900_marshal_cleanup },
+	{ t1760_marshal, t1760_marshal_back, t1760_marshal_cleanup },
+	{ t1761_marshal, t1761_marshal_back, t1761_marshal_cleanup },
+	{ t1762_marshal, t1762_marshal_back, t1762_marshal_cleanup },
+	{ t1763_marshal, t1763_marshal_back, t1763_marshal_cleanup },
+	{ t1764_marshal, t1764_marshal_back, t1764_marshal_cleanup },
+	{ t1765_marshal, t1765_marshal_back, t1765_marshal_cleanup },
+	{ t1766_marshal, t1766_marshal_back, t1766_marshal_cleanup },
+	{ t1767_marshal, t1767_marshal_back, t1767_marshal_cleanup },
+	{ t1768_marshal, t1768_marshal_back, t1768_marshal_cleanup },
+	{ t1769_marshal, t1769_marshal_back, t1769_marshal_cleanup },
+	{ t1770_marshal, t1770_marshal_back, t1770_marshal_cleanup },
+	{ t1771_marshal, t1771_marshal_back, t1771_marshal_cleanup },
+	{ t1772_marshal, t1772_marshal_back, t1772_marshal_cleanup },
+	{ t1773_marshal, t1773_marshal_back, t1773_marshal_cleanup },
+	{ t1774_marshal, t1774_marshal_back, t1774_marshal_cleanup },
+	{ t1775_marshal, t1775_marshal_back, t1775_marshal_cleanup },
+	{ t1776_marshal, t1776_marshal_back, t1776_marshal_cleanup },
+	{ t1777_marshal, t1777_marshal_back, t1777_marshal_cleanup },
+	{ t1778_marshal, t1778_marshal_back, t1778_marshal_cleanup },
+	{ t1779_marshal, t1779_marshal_back, t1779_marshal_cleanup },
+	{ t1780_marshal, t1780_marshal_back, t1780_marshal_cleanup },
+	NULL,
+};
